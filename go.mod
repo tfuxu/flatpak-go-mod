@@ -1,5 +1,5 @@
-module github.com/dennwc/flatpak-go-mod
+module github.com/tfuxu/flatpak-go-mod
 
-go 1.19
+go 1.21
 
-require golang.org/x/mod v0.7.0
+require golang.org/x/mod v0.15.0
